@@ -1,2 +1,1 @@
-# awsproj
-Project using AWS cloud
+# Deploying in AWS
